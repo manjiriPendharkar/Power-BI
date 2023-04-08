@@ -12,4 +12,4 @@ The dashboard reflects relevant Key Performance Indicators (KPIs) and metrics su
  
  Dashboard:
  
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+ ![alt text](https://github.com/manjiriPendharkar/Power-BI/tree/main/Call%20Centre%20Statistics/img.jpg?raw=true)
